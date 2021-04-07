@@ -24,20 +24,7 @@ sections:
       background_image_repeat: repeat
   - type: features_section
     title: Products
-    features:
-      - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+    features: []
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
