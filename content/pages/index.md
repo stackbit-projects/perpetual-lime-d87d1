@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Premium Door Hinges Manufacturer
-    subtitle: "We are manufacturer and supplier of premium Mild Steel & Stainless steel hinges from Hyderabad, Telangana. We manufacture stainless steel door hinges of highest quality and guage as per your requirement.\_We are an ISO 90"
+    subtitle: "We are manufacturer and supplier of premium Mild Steel & Stainless steel hinges from Hyderabad, Telangana. We manufacture stainless steel door hinges of highest quality and guage as per your requirement.\_We are an ISO 9001:2008 certified company."
     actions:
       - label: Learn More
         url: /features
