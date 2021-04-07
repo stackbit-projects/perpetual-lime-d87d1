@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       We are manufacturer and supplier of premium stainless steel hinges from
       Hyderabad, Telangana. We manufacture stainless steel door hinges of
-      highest quality and
+      highest quality and guage as per your requirement.
     actions:
       - label: Learn More
         url: /features
